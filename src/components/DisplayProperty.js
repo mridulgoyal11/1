@@ -1,4 +1,4 @@
-import PostCard from "./PostCard";
+/*import PostCard from "./PostCard";
 import "./DisplayProperty.css";
 import { MdLocationPin, MdPin, MdLocationCity } from "react-icons/md";
 import { formatDate } from "./Utils";
