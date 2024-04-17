@@ -1,4 +1,4 @@
-import './FormStyle.css'
+/*import './FormStyle.css'
 import PostCard from './PostCard';
 import { MdMap } from "react-icons/md";
 
@@ -22,4 +22,4 @@ function RequestCityForm(props){
     )
 }
 
-export default RequestCityForm;
+export default RequestCityForm;*/
